@@ -1,0 +1,2 @@
+test : test_list.cc
+	g++ -Wall -o test_list test_list.cc
